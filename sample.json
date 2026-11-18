@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Keyboard",
+    "price": "49.00",
+    "link": "/keyboard"
+  },
+  {
+    "name": "Mouse",
+    "price": "19.00",
+    "link": "/mouse"
+  },
+  {
+    "name": "Monitor",
+    "price": "129.00",
+    "link": "/monitor"
+  }
+]
