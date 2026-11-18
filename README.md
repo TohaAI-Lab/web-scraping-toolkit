@@ -1,3 +1,5 @@
+![Web Scraping Toolkit Banner](./banner.png)
+
 # Web Scraping Toolkit
 
 ### Responsible static HTML extraction with Python
